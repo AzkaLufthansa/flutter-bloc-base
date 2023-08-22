@@ -1,10 +1,10 @@
 # base_app
 
-A new Flutter project.
+Flutter base project adheres to the "Clean Architecture" and includes utility classes, exceptions, injection containers, and so on.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter BLoC application.
 
 A few resources to get you started if this is your first Flutter project:
 
